@@ -1,0 +1,4 @@
+<? 
+
+  include('page-history.php');
+
